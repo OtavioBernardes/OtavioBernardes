@@ -7,6 +7,6 @@
 
 Meu nome é Otávio Bernardes, estudante de Ciência da Computação e entusiasta na área de I.A e Data Science.
 
-- :neckbeard: Assistente de T.I **GRUPO UNIS**
+- :neckbeard: Assistente de T.I no **GRUPO UNIS**
 - :black_heart: Techs: Python, Node.js, Shell Scripts, SQL, Machine Learning, Data processing.
 - :books: Estudando Machine Learning e Data Science :blue_heart:
