@@ -10,7 +10,7 @@
 
 My name is Otávio Bernardes, I'm a computer scientist and enthusiast in the area of ​​I.A and Data Science.
 
-- :neckbeard: IT Analyst - Back End Developer **GRUPO UNIS**
+- :neckbeard: IT Analyst - Back End Developer - **GRUPO UNIS**
 
 **Languages and Tools:**
 
