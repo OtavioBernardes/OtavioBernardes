@@ -14,20 +14,20 @@ My name is Otávio Bernardes, I'm a computer scientist and enthusiast in the are
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://emojis.slackmojis.com/emojis/images/1598512760/10316/html-logo.png?1598512760"></code>
-<code><img height="20" src="https://emojis.slackmojis.com/emojis/images/1483053857/1540/laravel.png?1483053857"></code>
-<code><img height="20" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511"></code>
-<code><img height="20" src="https://emojis.slackmojis.com/emojis/images/1475696136/1202/linux.png?1475696136"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1598512760/10316/html-logo.png?1598512760"></code>
+<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1483053857/1540/laravel.png?1483053857"></code>
+<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511"></code>
+<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1475696136/1202/linux.png?1475696136"></code> 
 
 
 **Currently studying:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://br.vuejs.org//images/logo.png"></code>
 
 
 **My Codes**
