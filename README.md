@@ -8,9 +8,9 @@
 
 ### Hey there <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Otávio Bernardes, I'm a computer scientist and enthusiast in the area of ​​I.A and Data Science.
+My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
 
-- :neckbeard: IT Analyst - Back End Developer - **GRUPO UNIS**
+- :neckbeard: IT Analyst - Full Stack Developer - **GRUPO UNIS**
 
 **Languages and Tools:**
 
