@@ -1,10 +1,6 @@
-# :computer: Otávio Bernardes
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ot%C3%A1viobernardes/)](http://www.linkedin.com/in/ot%C3%A1viobernardes/)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=otaviobernardes)
 
- <img align="right" alt="GIF" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp?raw=true" width="350" height="224" />
+ <img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2017/05/Começar-com-Java.gif" width="40%" height="40%" />
 
 ### Hey there <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -31,6 +27,9 @@ My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
     <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white">
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+## Contact
+<a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
 
 **My Codes**
 <p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=dracula&count_private=true" alt="Otávio Bernardes github stats" /> </p>
