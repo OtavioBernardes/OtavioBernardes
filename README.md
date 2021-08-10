@@ -13,22 +13,26 @@ My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
 - :neckbeard: IT Analyst - Full Stack Developer - **GRUPO UNIS**
 
 **Languages and Tools:**
+<div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+</br>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1598512760/10316/html-logo.png?1598512760"></code>
-<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1483053857/1540/laravel.png?1483053857"></code>
-<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511"></code>
-<code><img height="25" src="https://emojis.slackmojis.com/emojis/images/1475696136/1202/linux.png?1475696136"></code> 
-
-
-**Currently studying:**  
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667"></code>
+**Currently studying:** 
+<div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white">
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 
 **My Codes**
 <p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=dracula&count_private=true" alt="Otávio Bernardes github stats" /> </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBernardes&layout=compact&theme=dracula)
