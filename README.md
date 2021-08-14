@@ -6,7 +6,7 @@
 
 My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
 
-- :neckbeard: IT Analyst - Full Stack Developer - **GRUPO UNIS**
+- :neckbeard: Full Stack Developer - **Axxin Data Intelligence**
 
 **Languages and Tools:**
 <div>
