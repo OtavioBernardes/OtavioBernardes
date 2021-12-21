@@ -25,7 +25,7 @@ My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white">
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-02569B?style=for-the-badge&logo=nestjs&logoColor=white">
 
 ## Contact
 <a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
