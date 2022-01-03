@@ -29,8 +29,6 @@ My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
 ## Contact
 <a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
-
-**My Codes**
-<p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=dracula&count_private=true" alt="Otávio Bernardes github stats" /> </p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBernardes&layout=compact&theme=dracula)
