@@ -4,13 +4,17 @@
 
 ### Hey there <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
+My name is Otávio Bernardes, I'm a computer scientist.
 
-- :neckbeard: Full Stack Developer - **Axxin Data Intelligence**
+- I love to solve problems.
+- I love data structure and algorithm.
+
+<a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 **Languages and Tools:**
 <div>
-     <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-02569B?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -18,17 +22,17 @@ My name is Otávio Bernardes, I'm a computer scientist and full stack developer.
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+
 </br>
 
-**Currently studying:** 
-<div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/NestJS-02569B?style=for-the-badge&logo=nestjs&logoColor=white">
+**Currently studying:**
+</br>
+    <img src="https://img.shields.io/badge/TDD-339933?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/Clean Architecture-FF2D20?style=for-the-badge&logo=node&logoColor=white">
 
-## Contact
-<a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviobernardes&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBernardes&layout=compact&theme=dracula)
+
