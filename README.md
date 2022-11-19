@@ -9,7 +9,7 @@ My name is Otávio Bernardes, I'm a computer scientist.
 - I love to solve problems.
 - I love data structure and algorithm.
 
-<a href="https://www.linkedin.com/in/otáviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/otaviobernardes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 **Languages and Tools:**
 <div>
