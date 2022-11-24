@@ -30,5 +30,3 @@ My name is Otávio Bernardes, I'm a computer scientist.
 </br>
     <img src="https://img.shields.io/badge/TDD-339933?style=for-the-badge&logo=node&logoColor=white">
     <img src="https://img.shields.io/badge/Clean Architecture-FF2D20?style=for-the-badge&logo=node&logoColor=white">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioBernardes&show_icons=true&theme=radical)
