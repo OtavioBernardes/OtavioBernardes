@@ -4,7 +4,7 @@
 
 ### Hey there <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Otávio Bernardes, I'm a computer scientist.
+My name is Otávio Bernardes, I'm a software engineer!
 
 - I love to solve problems.
 - I love data structure and algorithm.
