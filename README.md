@@ -30,3 +30,5 @@ My name is Otávio Bernardes, I'm a software engineer!
 </br>
     <img src="https://img.shields.io/badge/TDD-339933?style=for-the-badge&logo=node&logoColor=white">
     <img src="https://img.shields.io/badge/Clean Architecture-FF2D20?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/Devops-%235835CC?style=for-the-badge&logo=devops&logoColor=61DAFB">
+
